@@ -14,25 +14,16 @@ set expandtab
 set autoindent
 set backspace=indent,eol,start
 
-if has('gui_running')
-    set background=light
-else
-    set background=dark
-endif
-
 set clipboard=unnamedplus
-"set background=dark
 set encoding=utf-8
 
 call plug#begin('~/.vim/autoload')
 
-"Plug 'https://github.com/vim-airline/vim-airline'
 Plug 'https://github.com/dracula/vim'
 Plug 'https://github.com/preservim/nerdtree'
 Plug 'https://github.com/codota/tabnine-vim'
 Plug 'https://github.com/tpope/vim-surround'
 Plug 'https://github.com/jiangmiao/auto-pairs'
-"Plug 'https://github.com/altercation/vim-colors-solarized'
 
 call plug#end()          
 
