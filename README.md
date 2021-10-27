@@ -1,4 +1,4 @@
-# dotfiles-Linux-Mint
+#+title: dotfiles-Linux-Mint
 
 Informations:
 OS : Linux Mint 20.02
