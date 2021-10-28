@@ -13,3 +13,4 @@
 * Music Player : NO
 * Font : Monospace
 * Bar : NO 
+* File Manager : Thunar
