@@ -10,7 +10,6 @@
 * Terminal : xfce4-terminal
 * Colorschemes : Tokyo Night
 * Launcher : Rofi
-* Music Player : NO
-* Font : Monospace
-* Bar : NO 
+* Music Player : No
+* Bar : No
 * File Manager : Thunar
