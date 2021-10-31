@@ -1,15 +1,16 @@
 # dotfiles 
 
 
-* OS : Linux Mint 20.02.
+* OS : Linux Mint 20.02
 * DE : xfce
 * WM : xfwm4
-* WM Theme : Orchis-purple-dark-compact
-* Icons: Tela-circle-purple-dark
+* WM Theme : border-only
+* Theme : Orchis-purple-dark-compact
+* Icons: Papirus
 * Cursors : Material Light Cursors
 * Terminal : xfce4-terminal
 * Colorschemes : Tokyo Night
-* Launcher : Rofi
+* AppLauncher : Rofi
 * Music Player : Cmus
-* Bar : Polybar
-* File Manager : Thunar
+* Bar : No
+* File Manager : Thunar, ranger
