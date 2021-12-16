@@ -4,8 +4,7 @@
 * OS : Linux Mint 20.02
 * DE : xfce
 * WM : xfwm4
-* WM Theme : border-only
-* Theme : Orchis-purple-dark-compact
+* Theme : Sweet-dark
 * Icons: Papirus
 * Cursors : Material Light Cursors
 * Terminal : xfce4-terminal
