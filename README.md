@@ -1,6 +1,6 @@
 # dotfiles 
 
-Some config to vim
+Some configuration to vim
 
 * OS : Linux Mint 21
 * DE : xfce
