@@ -1,5 +1,7 @@
 # dotfiles 
 
+Some config to vim
+
 * OS : Linux Mint 21
 * DE : xfce
 * WM : xfwm4
